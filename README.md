@@ -3,7 +3,7 @@ The following "Authserver.js" file generates JWT token after verifing user crede
 
 Instructions:
 
-1.Install Node.js locally, which you can be followed by https://www.digitalocean.com/community/tutorial_series/how-to-install-node-js-and-create-a-local-development-environment.
+ 1.Install Node.js locally, which you can be followed by https://www.digitalocean.com/community/tutorial_series/how-to-install-node-js-and-create-a-local-development-environment.
 
 2. Add jsonwebtoken (JSON Web Tokens) by running the following command: npm install jsonwebtoken
 
